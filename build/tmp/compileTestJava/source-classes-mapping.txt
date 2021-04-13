@@ -1,0 +1,28 @@
+steps/Articulo.java
+ steps.Articulo
+page/CarroComprasPage.java
+ page.CarroComprasPage
+steps/BaseSteps.java
+ steps.BaseSteps
+driver/DriverHolder.java
+ driver.DriverHolder
+page/ResultadoArticuloPage.java
+ page.ResultadoArticuloPage
+steps/Login.java
+ steps.Login
+page/ArticuloPage.java
+ page.ArticuloPage
+page/HomePcFactoryPage.java
+ page.HomePcFactoryPage
+steps/ResultadoArticulo.java
+ steps.ResultadoArticulo
+steps/Runner.java
+ steps.Runner
+utils/Commons.java
+ utils.Commons
+steps/CarroCompras.java
+ steps.CarroCompras
+page/LoginPage.java
+ page.LoginPage
+steps/HomePcFactory.java
+ steps.HomePcFactory
