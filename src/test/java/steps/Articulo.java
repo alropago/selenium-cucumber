@@ -5,6 +5,7 @@ import io.cucumber.java.en.Given;
 import page.ArticuloPage;
 
 public class Articulo {
+    //Esto es un ejemplo para poder subir a git
     ArticuloPage articuloPage = new ArticuloPage();
 
     @And("Se da clic al boton agregar al carro")
